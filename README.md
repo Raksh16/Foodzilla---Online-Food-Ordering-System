@@ -1,4 +1,4 @@
-FoodZilla - The Food Ordering Website 🍽️
+**FoodZilla - The Food Ordering Website** 🍽️
 
 FoodZilla is an innovative online food ordering website designed to streamline and standardize the order-taking process, enhancing speed and efficiency for both customers and restaurant owners. Developed using modern web technologies, FoodZilla offers a seamless and robust platform for ordering a variety of foods online.
 
