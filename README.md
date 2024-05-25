@@ -4,8 +4,8 @@ FoodZilla is an innovative online food ordering website designed to streamline a
 
 **Features**
 - **Unified Platform for Customers**
--- Variety of Foods: Users can browse and order from a wide selection of cuisines and dishes.
--- Search and Filters: Advanced search functionality with filters for cuisine, price, and ratings.
+- Variety of Foods: Users can browse and order from a wide selection of cuisines and dishes.
+- Search and Filters: Advanced search functionality with filters for cuisine, price, and ratings.
 
 - **Integrated Payment Gateways**
 Seamless Billing: Multiple payment options including credit/debit cards, digital wallets, and cash on delivery.
