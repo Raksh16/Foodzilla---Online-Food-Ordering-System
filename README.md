@@ -26,9 +26,9 @@ FoodZilla is an innovative online food ordering website designed to streamline a
 - MySQL: Managed the database for storing user information, orders, and menu items.
 
  **Development Highlights**
-Efficiency: Streamlined the order-taking process, reducing time and effort for both customers and staff.
-User Experience: Focused on creating an intuitive and user-friendly interface.
-Scalability: Built with scalability in mind to handle growing numbers of users and orders.
+- Efficiency: Streamlined the order-taking process, reducing time and effort for both customers and staff.
+- User Experience: Focused on creating an intuitive and user-friendly interface.
+- Scalability: Built with scalability in mind to handle growing numbers of users and orders.
 
  **Conclusion**
 FoodZilla represents a significant step forward in the realm of online food ordering. By leveraging modern web technologies and focusing on user experience, it ensures a quick, efficient, and enjoyable food ordering process.
