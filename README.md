@@ -15,10 +15,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Raksh16/Foodzilla---Online-Food-Ordering-System
-.git 
-cd Foodzilla---Online-Food-Ordering-System
-
+    git clone https://github.com/Raksh16/Foodzilla---Online-Food-Ordering-System.git
+    cd Foodzilla---Online-Food-Ordering-System
     ```
 
 2. **Install dependencies:**
