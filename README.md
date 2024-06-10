@@ -42,6 +42,18 @@ Before you begin, ensure you have met the following requirements:
 - `views/`: Contains EJS templates for rendering the HTML pages.
 - `public/`: Contains static assets like CSS, JavaScript, and images.
 
+### Database Configuration
+
+1. **Configure MySQL Connection:**
+   - Update the MySQL connection settings in `index.js`:
+     ```javascript
+     const db = mysql.createConnection({
+       host: 'localhost',
+       user: 'yourusername',
+       password: 'yourpassword',
+       database: 'database_name'
+     });
+     ```
 
 **Features** -
 1) **Unified Platform for Customers**
