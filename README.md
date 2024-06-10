@@ -42,6 +42,8 @@ Before you begin, ensure you have met the following requirements:
 - `views/`: Contains EJS templates for rendering the HTML pages.
 - `public/`: Contains static assets like CSS, JavaScript, and images.
 
+- (Or you can directly access these files in this repository.)
+
 ### Database Configuration
 
 1. **Configure MySQL Connection:**
